@@ -2,3 +2,4 @@
 --amend
 测试发现：
 checkout和restore可以互换
+akjfhaksjdbf;kasjdbf;ajefn
